@@ -1,0 +1,5 @@
+Laptop, 1000, 10
+Mouse, 20, 50
+Keyboard, 50, 30
+Monitor, 200, 15
+Phone, 800, 8

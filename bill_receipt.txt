@@ -1,0 +1,5 @@
+
+--- Bill Receipt ---
+Mouse: $200.0
+
+Total Amount: $200.0
